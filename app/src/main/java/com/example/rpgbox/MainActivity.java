@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         webSettings.setJavaScriptEnabled(true);
 
 
-        myWebView.loadUrl("https://rpg-app-android.vercel.app/");
+        myWebView.loadUrl("https://emesdev.site/");
 
     }
 
